@@ -1,4 +1,12 @@
 /* style.css */
+.logo {
+  width: 100px;
+  height: 100px;
+  display: block;
+  border-radius: 50%;
+  margin-bottom: 10px;
+  text-indent: -9999px;
+}
 body {
     font-family: 'Segoe UI', sans-serif;
     background: #f8f9fa;
@@ -67,4 +75,3 @@ body {
     background-color: #f1f1f1;
     text-align: center;
   }
-  
