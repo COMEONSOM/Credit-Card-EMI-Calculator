@@ -1,10 +1,13 @@
 /* style.css */
 .logo {
-  width: 100px;
-  height: 100px;
-  margin: 20px;
   display: block;
+  width: 80px;
+  height: 80px;
+  margin: 20px;
+  border-radius: 50%;
+  object-fit: cover;
 }
+
 body {
     font-family: 'Segoe UI', sans-serif;
     background: #f8f9fa;
